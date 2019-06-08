@@ -4,8 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+### Who are you?
+I currently work as an associate engineer at Wattpad.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I graduated from the Computer Science program at the University of Toronto.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I was a programming / robotics instructor at LogicFusion.
+
+I have been a part of University of Toronto Aerospace Team and recently as a division lead for over 3 years.
+
+I have worked on many quirky projects including a inventory system and a pancake printer.
+
+### Examples or it didn’t happen
+I write code and some idiotic comments about things I see.
+
+I hear people telling me to blog it instead. Done.
+
+I made some cool projects as well.
+
+I have a résumé if you’re into that sort of thing.

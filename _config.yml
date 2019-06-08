@@ -18,36 +18,36 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+title: Timothy Lock
+description: "Timothy Lock Portfolio Software Developer"
+keywords: "Timothy Lock, Golang, Python, JS, SQL, Kubernetes, software"
+url: https://timothylock.ca
+baseurl: ""
 
-google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+# google_analytics: UA-52446115-1
+# repo: http://github.com/nandomoreirame/end2end
+# disqus_shortname: "nandothemes"
+# disqus_site_shortname: "nandothemes"
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: Timothy Lock
+  job: Software Developer
+  bio: "Software developer currently working at Wattpad. Golang, Python, JS, SQL, Kubernetes. Powered by coffee"
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: me@timothylock.ca
+  url: https://timothylock.ca/
+  github: https://github.com/timothylock
+  twitter: https://twitter.com/timothyklock
+  instagram: https://www.instagram.com/itstimofee/
+  linkedin: https://linkedin.com/in/timothylock
 
 # navbar pages
 navbar:
   - slug: about
     title: About
-  - slug: icons
-    title: Icons
+  - slug: portfolio
+    title: Portfolio
   - slug: blog
     title: Blog
 
