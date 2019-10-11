@@ -41,13 +41,12 @@ author:
   twitter: https://twitter.com/timothyklock
   instagram: https://www.instagram.com/itstimofee/
   linkedin: https://linkedin.com/in/timothylock
+  status: https://status.timothylock.ca
 
 # navbar pages
 navbar:
   - slug: about
     title: About
-  - slug: portfolio
-    title: Portfolio
   - slug: blog
     title: Blog
 

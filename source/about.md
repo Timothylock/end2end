@@ -5,21 +5,20 @@ permalink: /about/
 ---
 
 ### Who are you?
-I currently work as an associate engineer at Wattpad.
+I currently work as an associate engineer at [Wattpad](https://wattpad.com).
 
-I graduated from the Computer Science program at the University of Toronto.
+I graduated from the Computer Science program at the [University of Toronto](https://www.utoronto.ca/).
 
-I was a programming / robotics instructor at LogicFusion.
+I was a programming / robotics instructor at [LogicFusion](http://logicfusion.ca).
 
-I have been a part of University of Toronto Aerospace Team and recently as a division lead for over 3 years.
-
-I have worked on many quirky projects including a inventory system and a pancake printer.
+I have been a part of [University of Toronto Aerospace Team](https://utat.ca) and recently as a division lead for over 3 years.
 
 ### Examples or it didn’t happen
-I write code and some idiotic comments about things I see.
+I have also worked on projects such as [creating a sign-in with Apple Golang library](https://github.com/timothylock/go-signin-with-apple)
 
-I hear people telling me to blog it instead. Done.
+I am also silly, so how about a [pancake printer](https://devpost.com/software/printcakes-pancake-printer)?
 
-I made some cool projects as well.
+I hear people telling me this is too long and to blog it. [Done](https://timothylock.ca/blog/).
 
-I have a résumé if you’re into that sort of thing.
+### I still need a résumé
+[kay](timothy_lock_resume.pdf)
