@@ -1,7 +1,7 @@
 ---
 layout: page_no_header_no_footer
 title: Wow thanks for clicking my IG Link!
-permalink: /IGlanding/
+permalink: /iglanding/
 ---
 
 
